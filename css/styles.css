@@ -1,0 +1,127 @@
+/**
+ * Atayen US
+ *
+ * @category    Integration
+ * @package     Global STYLUS
+ * @copyright   Copyright (c) 2021 Atayen. (http://www.Atayen.us)
+ * @author      BENMESSAOUD ADAM (adam@atayen.us)
+ */
+/*==== Reset=================*/
+body {
+  font-family: Nunito;
+}
+body .btn-green {
+  background: #42b72a;
+  padding: 27px 23px;
+  color: #fff;
+  border-radius: 20px;
+  border: 3px solid #fff;
+  box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+body .title-section {
+  color: #15274a;
+  text-align: center;
+}
+body .title-section h2 {
+  font-family: Nunito-bold;
+  font-size: 40px;
+}
+body .title-section p {
+  font-family: Nunito;
+  font-weight: bold;
+  font-size: 32px;
+}
+.header {
+  background-image: url("../images/Frame-header.png");
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: 100% 850px;
+}
+.header-content {
+  padding: 60px 0 90px 0;
+  text-align: center;
+}
+.header-content h1 {
+  font-size: 56px;
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+.header-content p {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+  margin-bottom: 400px;
+}
+.header-content .btn-green {
+  text-decoration: none;
+  font-size: 30px;
+  display: -webkit-inline-box;
+  font-weight: bold;
+  width: inheirt;
+}
+.section-1 .text-brands p {
+  margin-bottom: 35px;
+  color: #15274a;
+  font-size: 24px;
+  text-align: center;
+}
+.section-2 {
+  background: #f3f7ff;
+  padding: 124px 0 75px 0;
+  margin: 35px 0 0 0;
+}
+.section-2 .content-section .card {
+  text-align: center;
+  padding: 32px;
+  border-radius: 30px;
+  margin: 35px 0;
+}
+.section-2 .content-section .card img {
+  max-width: 92px;
+  margin: auto;
+}
+.section-2 .content-section .card p {
+  color: #15274a;
+  font-size: 24px;
+  font-family: Nunito;
+  font-weight: bold;
+}
+.section-3 .free-trial {
+  background: #15274a;
+  padding: 40px;
+}
+.section-3 .free-trial .content-section h3 {
+  margin: 25px 0;
+  font-weight: bold;
+  color: #f3f7ff;
+  font-size: 50px;
+  text-transform: uppercase;
+  text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+.section-3 .free-trial .content-section a {
+  display: -webkit-box;
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  font-weight: bold;
+}
+.menu {
+  background: #15274a;
+}
+.menu ul li {
+  padding: 20px;
+}
+.menu ul li a {
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-style: normal;
+}
+.menu ul li a:hover {
+  border-bottom: 3px solid #4080ff;
+}
+/*===========================*/
